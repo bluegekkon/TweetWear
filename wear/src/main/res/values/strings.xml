@@ -3,32 +3,32 @@
 
     <string name="app_name">TweetWear</string>
 
-    <string name="retweet">Retweet</string>
-    <string name="retweeted">Retweeted</string>
-    <string name="retweet_failed">Retweet failed</string>
+    <string name="retweet">Ретвитнуть</string>
+    <string name="retweeted">Ретвит сделан</string>
+    <string name="retweet_failed">Ошибка ретвита</string>
 
-    <string name="favorite">Favorite</string>
-    <string name="favorited">Favorited</string>
-    <string name="favorite_failed">Favorite failed</string>
+    <string name="favorite">В избранное</string>
+    <string name="favorited">Добавлено в избранное</string>
+    <string name="favorite_failed">Ошибка добавления</string>
 
-    <string name="reply_to">Reply to</string>
+    <string name="reply_to">Ответить</string>
 
-    <string name="post_tweet_prompt">Say your Tweet when prompted</string>
-    <string name="post_tweet_label">New Tweet</string>
-    <string name="post_tweet_posting">Posting&#8230;</string>
-    <string name="post_tweet_cancel">Tap to cancel</string>
-    <string name="post_tweet_cancelled">Cancelled</string>
-    <string name="post_tweet_capture_failed">Failed</string>
+    <string name="post_tweet_prompt">Произнесите текст при запросе</string>
+    <string name="post_tweet_label">Новый твит</string>
+    <string name="post_tweet_posting">Публикация&#8230;</string>
+    <string name="post_tweet_cancel">Нажмите для отмены</string>
+    <string name="post_tweet_cancelled">Отменено</string>
+    <string name="post_tweet_capture_failed">Ошибка</string>
 
-    <string name="post_tweet_failure_new_tweet">Failed to Tweet</string>
-    <string name="post_tweet_failure_reply">Failed to reply</string>
-    <string name="post_tweet_successful_new_tweet">Tweet posted</string>
-    <string name="post_tweet_successful_reply">Reply posted</string>
+    <string name="post_tweet_failure_new_tweet">Ошибка публикации</string>
+    <string name="post_tweet_failure_reply">Ответ не опубликован</string>
+    <string name="post_tweet_successful_new_tweet">Твит опубликован</string>
+    <string name="post_tweet_successful_reply">Ответ опубликован</string>
 
     <plurals name="summary_notification">
-        <item quantity="zero">No new tweets</item>
-        <item quantity="one">1 new tweet</item>
-        <item quantity="other">%d new tweets</item>
+        <item quantity="zero">Новых твитов нет</item>
+        <item quantity="one">1 новых твитов</item>
+        <item quantity="other">%d новых твитов</item>
     </plurals>
 
 </resources>
